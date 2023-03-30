@@ -1,0 +1,26 @@
+.filterContainer{
+    width: 400px;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px;
+}
+
+.filterContainer button{
+    padding: 8px;
+    border-radius: 5px;
+    border:solid white;
+    box-sizing: border-box;
+}
+
+.filterContainer button:hover{
+    cursor: pointer;
+    background-color: darkgray;
+    color: white;
+    transition: 0.2s;
+}
+
+.filterContainer button:active{
+    cursor: pointer;
+    background-color: darkgray;
+    color: white;
+}

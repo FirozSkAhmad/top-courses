@@ -1,0 +1,16 @@
+.head{
+    background-color: black;
+    border-bottom: 1px  solid white;
+    width: 100%;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    margin-bottom: 10px;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+.head p{
+    font-weight: bolder;
+    font-size: x-large;
+}
